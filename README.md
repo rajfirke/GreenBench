@@ -4,6 +4,8 @@ Benchmarking energy efficiency and carbon footprint of open-source LLM inference
 
 GreenBench measures **throughput**, **per-token energy**, and **CO₂ emissions** for quantized open-source LLMs running locally via [Ollama](https://ollama.com) on Apple Silicon hardware.
 
+[Paper Link](https://arxiv.org/abs/2608.28667)
+
 ---
 
 ## Key Metrics
